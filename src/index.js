@@ -3,7 +3,7 @@ function App() {
 
     const darkTheme = {
         backgroundColor: "#0d1117",
-        color: "white"
+        color: "#bbb"
     };
 
     const lightTheme = {

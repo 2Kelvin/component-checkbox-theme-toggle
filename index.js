@@ -8,7 +8,7 @@ function App() {
 
     var darkTheme = {
         backgroundColor: "#0d1117",
-        color: "white"
+        color: "#bbb"
     };
 
     var lightTheme = {
